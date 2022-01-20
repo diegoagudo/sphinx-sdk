@@ -1,5 +1,5 @@
 {
-    "name": "plataforma13/sphinx-sdk",
+    "name": "diegoagudo/sphinx-sdk",
     "description": "Sphinx SDK",
     "type": "package",
     "license": "Private",
@@ -15,7 +15,6 @@
             "email": "diego.agudo@123milhas.com.br"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.4",
         "guzzlehttp/guzzle": ">=6.0",
